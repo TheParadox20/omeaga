@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="css-startup/bootstrap.min.css">
+<link rel="stylesheet" href="css-startup/owl.carousel.min.css">
+<link rel="stylesheet" href="css-startup/magnific-popup.css">
+<link rel="stylesheet" href="css-startup/font-awesome.min.css">
+<link rel="stylesheet" href="css-startup/themify-icons.css">
+<link rel="stylesheet" href="css-startup/nice-select.css">
+<link rel="stylesheet" href="css-startup/flaticon.css">
+<link rel="stylesheet" href="css-startup/gijgo.css">
+<link rel="stylesheet" href="css-startup/animate.min.css">
+<link rel="stylesheet" href="css-startup/slick.css">
+<link rel="stylesheet" href="css-startup/slicknav.css">
+<link rel="stylesheet" href="css-startup/style.css">
