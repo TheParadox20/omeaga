@@ -20,8 +20,8 @@
                                     <li><a class="active" href="index.php">home</a></li>
                                     <li><a href="#">Services <i class="ti-angle-down"></i></a>
                                         <ul class="submenu">
-                                            <li><a href="blog.html">Hire a mechanic</a></li>
-                                            <li><a href="single-blog.html">Online store</a></li>
+                                            <li><a href="mechanic.php">Hire a mechanic</a></li>
+                                            <li><a href="shop.php">Online store</a></li>
                                             <li><a href="blog.html">Breakdown services</a></li>
                                         </ul>
                                     </li>

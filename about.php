@@ -134,7 +134,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                         <div class="team_thumb">
                             <img src="img-startup/team/1.png" alt="">
@@ -149,12 +149,12 @@
                             </div>
                         </div>
                         <div class="team_title text-center">
-                            <h3>Brandon Yeald</h3>
+                            <h3>Victor Murimi</h3>
                             <p>Founder & CEO</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                         <div class="team_thumb">
                             <img src="img-startup/team/2.png" alt="">
@@ -169,32 +169,12 @@
                             </div>
                         </div>
                         <div class="team_title text-center">
-                            <h3>Calvin Anderson</h3>
+                            <h3>Mitchell Wambui</h3>
                             <p>Graphics Designer</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                        <div class="team_thumb">
-                            <img src="img-startup/team/3.png" alt="">
-                            <div class="team_hover">
-                                <div class="hover_inner text-center">
-                                    <ul>
-                                        <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team_title text-center">
-                            <h3>Roman Solo</h3>
-                            <p>Wordpress Developer</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
                         <div class="team_thumb">
                             <img src="img-startup/team/4.png" alt="">
@@ -209,7 +189,7 @@
                             </div>
                         </div>
                         <div class="team_title text-center">
-                            <h3>Yeald Kin</h3>
+                            <h3>Samson Mong'are</h3>
                             <p>Software Engineer</p>
                         </div>
                     </div>
