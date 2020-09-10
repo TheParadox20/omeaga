@@ -20,7 +20,7 @@
             <!-- <img-fashi-startup src="images-reg-login/signup-bg.jpg" alt=""> -->
             <div class="container">
                 <div class="signup-content">
-                    <form action="backend-register.php" method="POST" id="signup-form" class="signup-form">
+                    <form action="#" method="POST" id="signup-form" class="signup-form">
                         <h2 class="form-title">Create account</h2>
                         <div class="form-group">
                             <input type="text" class="form-input" name="name" id="name" placeholder="Your Name"/>
@@ -40,7 +40,7 @@
                             <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
                         </div>
                         <div class="form-group">
-                            <input type="submit" name="submit" id="submit" class="form-submit" value="Sign up"/>
+                            <a href="index.php"><input type="submit" name="submit" id="submit" class="form-submit" value="Sign up"/></a>
                         </div>
                     </form>
                     <p class="loginhere">
