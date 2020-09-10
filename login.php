@@ -58,11 +58,9 @@
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
-							<a href="index.php" >
-                                <button class="login100-form-btn">
+                                <button onclick="window.location.href='index.php';" class="login100-form-btn">
                                     Login
                                 </button>
-                            </a>
 						</div>
 					</div>
 

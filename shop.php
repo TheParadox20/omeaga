@@ -46,7 +46,7 @@
                         <ul class="filter-catagories">
                             <li><a href="#">Tools</a></li>
                             <li><a href="#">Wheels and rims</a></li>
-                            <li><a href="#">Kids</a></li>
+                            <li><a href="#">Chassis parts</a></li>
                         </ul>
                     </div>
                     <div class="filter-widget">
@@ -54,7 +54,7 @@
                         <div class="fw-brand-check">
                             <div class="bc-item">
                                 <label for="bc-calvin">
-                                    Calvin Klein
+                                    Toyota
                                     <input type="checkbox" id="bc-calvin">
                                     <span class="checkmark"></span>
                                 </label>
@@ -68,14 +68,14 @@
                             </div>
                             <div class="bc-item">
                                 <label for="bc-polo">
-                                    Polo
+                                    Mercedes
                                     <input type="checkbox" id="bc-polo">
                                     <span class="checkmark"></span>
                                 </label>
                             </div>
                             <div class="bc-item">
                                 <label for="bc-tommy">
-                                    Tommy Hilfiger
+                                    nissan
                                     <input type="checkbox" id="bc-tommy">
                                     <span class="checkmark"></span>
                                 </label>
@@ -100,7 +100,7 @@
                         </div>
                         <a href="#" class="filter-btn">Filter</a>
                     </div>
-                    <div class="filter-widget">
+                    <!--<div class="filter-widget">
                         <h4 class="fw-title">Color</h4>
                         <div class="fw-color-choose">
                             <div class="cs-item">
@@ -149,17 +149,16 @@
                                 <label for="xs-size">xs</label>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                     <div class="filter-widget">
                         <h4 class="fw-title">Tags</h4>
                         <div class="fw-tags">
-                            <a href="#">Towel</a>
-                            <a href="#">Shoes</a>
-                            <a href="#">Coat</a>
-                            <a href="#">Dresses</a>
-                            <a href="#">Trousers</a>
-                            <a href="#">Men's hats</a>
-                            <a href="#">Backpack</a>
+                            <a href="#">Cars</a>
+                                <a href="#">Wheels</a>
+                            <a href="#">Rims</a>
+                            <a href="#">Tools</a>
+                            <a href="#">Mirrors and windows</a>
+                            <a href="#">Interior design</a>
                         </div>
                     </div>
                 </div>
@@ -198,9 +197,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Towel</div>
+                                        <div class="catagory-name">Chassis</div>
                                         <a href="#">
-                                            <h5>Pure Pineapple</h5>
+                                            <h5>Wind shield 35"</h5>
                                         </a>
                                         <div class="product-price">
                                             $14.00
@@ -223,9 +222,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Coat</div>
+                                        <div class="catagory-name">Chassis</div>
                                         <a href="#">
-                                            <h5>Guangzhou sweater</h5>
+                                            <h5>Wind shield 34" tinted</h5>
                                         </a>
                                         <div class="product-price">
                                             $13.00
@@ -248,9 +247,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Shoes</div>
+                                        <div class="catagory-name">Chassis</div>
                                         <a href="#">
-                                            <h5>Guangzhou sweater</h5>
+                                            <h5>Wind shield 34"</h5>
                                         </a>
                                         <div class="product-price">
                                             $34.00
@@ -273,9 +272,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Coat</div>
+                                        <div class="catagory-name">Tools</div>
                                         <a href="#">
-                                            <h5>Microfiber Wool Scarf</h5>
+                                            <h5>34 in 1 toolbox</h5>
                                         </a>
                                         <div class="product-price">
                                             $64.00
@@ -298,9 +297,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Shoes</div>
+                                        <div class="catagory-name">Tools</div>
                                         <a href="#">
-                                            <h5>Men's Painted Hat</h5>
+                                            <h5>28 in 1 toolbox</h5>
                                         </a>
                                         <div class="product-price">
                                             $44.00
@@ -323,9 +322,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Shoes</div>
+                                        <div class="catagory-name">tools</div>
                                         <a href="#">
-                                            <h5>Converse Shoes</h5>
+                                            <h5>19 in 1 toolbox</h5>
                                         </a>
                                         <div class="product-price">
                                             $34.00
@@ -349,9 +348,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Towel</div>
+                                        <div class="catagory-name">Chassis</div>
                                         <a href="#">
-                                            <h5>Pure Pineapple</h5>
+                                            <h5>Wind shield wiper 1</h5>
                                         </a>
                                         <div class="product-price">
                                             $64.00
@@ -374,9 +373,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Coat</div>
+                                        <div class="catagory-name">chassis</div>
                                         <a href="#">
-                                            <h5>2 Layer Windbreaker</h5>
+                                            <h5>Wind shield wiper 2</h5>
                                         </a>
                                         <div class="product-price">
                                             $44.00
@@ -399,9 +398,9 @@
                                         </ul>
                                     </div>
                                     <div class="pi-text">
-                                        <div class="catagory-name">Shoes</div>
+                                        <div class="catagory-name">Gifts</div>
                                         <a href="#">
-                                            <h5>Converse Shoes</h5>
+                                            <h5>Gift</h5>
                                         </a>
                                         <div class="product-price">
                                             $34.00

@@ -40,7 +40,7 @@
                             <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
                         </div>
                         <div class="form-group">
-                            <a href="index.php"><input type="submit" name="submit" id="submit" class="form-submit" value="Sign up"/></a>
+                            <input onclick="window.location.href='index.php';" type="button" name="submit" id="submit" class="form-submit" value="Sign up"/>
                         </div>
                     </form>
                     <p class="loginhere">
