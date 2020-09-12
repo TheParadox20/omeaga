@@ -1,4 +1,7 @@
-<?php require_once 'link.php'?>
+<?php
+$USERLogged = $_COOKIE['logged'];
+require_once 'link.php'
+?>
 <header style="background: rgb(29,28,66);
         background: linear-gradient(90deg, rgba(29,28,66,1) 0%, rgba(21,21,71,1) 22%, rgba(25,47,52,1) 49%, rgba(41,60,75,1) 68%, rgba(25,52,57,1) 81%, rgba(10,47,54,1) 93%);">
     <div class="header-area ">
@@ -35,7 +38,15 @@
                     </div>
                     <div class="col-lg-2 d-none d-lg-block">
                         <div class="log_chat_area d-flex align-items-end">
-                            <a style="" href="login.php" class="say_hi">Log In</a>
+                            <a style="" href="login.php" class="say_hi">
+                                <?php
+                                    if (isset($_SESSION['UserName'])){
+                                        echo $USERLogged;
+                                    } else{
+                                        echo 'Log In';
+                                    }
+                                ?>
+                            </a>
                         </div>
                     </div>
                     <div class="col-12">

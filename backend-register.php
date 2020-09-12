@@ -1,5 +1,4 @@
 <?php
-//Columns FirstName LastName UserName Email Location Password
 require_once "db.php";
 $un=$_POST['name'];
 $Email=$_POST['email'];
