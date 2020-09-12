@@ -1,7 +1,6 @@
 <?php
 require_once "db.php";
 $link = new mysqli($Hn , $User , $Pass , $Db );
-if ($link->connect_error) die("fatal error");
 $Ur = $_POST['username'];
 $pass = $_POST['pass'];
 $passQuery = "SELECT Password FROM User WHERE Name='$Ur'";
@@ -12,5 +11,7 @@ if (password_verify($pass, $data[0])) {
     setcookie('logged' , $Ur , time()+3600);
     $_SESSION['UserName'] = $Ur;
     include_once "index.php";
+}else {
+    echo 'wrong password';
 }
 ?>
